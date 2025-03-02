@@ -1,0 +1,14 @@
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\bin\Debug\net8.0\ARS Windows Registry Cleaner.exe
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\bin\Debug\net8.0\ARS Windows Registry Cleaner.deps.json
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\bin\Debug\net8.0\ARS Windows Registry Cleaner.runtimeconfig.json
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\bin\Debug\net8.0\ARS Windows Registry Cleaner.dll
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\bin\Debug\net8.0\ARS Windows Registry Cleaner.pdb
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ARS Windows Registry Cleaner.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ARS Windows Registry Cleaner.AssemblyInfoInputs.cache
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ARS Windows Registry Cleaner.AssemblyInfo.cs
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ARS Windows Registry Cleaner.csproj.CoreCompileInputs.cache
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ARS Windows Registry Cleaner.dll
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\refint\ARS Windows Registry Cleaner.dll
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ARS Windows Registry Cleaner.pdb
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ARS Windows Registry Cleaner.genruntimeconfig.cache
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\obj\Debug\net8.0\ref\ARS Windows Registry Cleaner.dll

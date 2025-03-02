@@ -1,0 +1,2 @@
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\bin\Release\net8.0\win-x64\publish\ARS Windows Registry Cleaner.pdb
+D:\ARS Windows Registry Cleaner\ARS Windows Registry Cleaner\bin\Release\net8.0\win-x64\publish\ARS Windows Registry Cleaner.exe
